@@ -5,12 +5,12 @@
 ---
 
 ## 🔥 GitHub 활동 통계
-![wjdwhddls's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjdwhddls&show_icons=true&theme=dark)  
+![sungwoonko's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungwoonko&show_icons=true&theme=dark)  
 
 ---
 
 ## 📊 사용 언어
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdwhddls&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sungwoonko&layout=compact&theme=dark)
 
 ---
 
