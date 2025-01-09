@@ -1,16 +1,35 @@
-## Hi there 👋
+# 안녕하세요!  
+저는 매일 발전하는 개발자 **sungwoonko**입니다! 🌱 <br>
+꾸준함과 도전정신을 보여드리겠습니다❗
 
-<!--
-**sungwoonko/sungwoonko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔥 GitHub 활동 통계
+![wjdwhddls's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjdwhddls&show_icons=true&theme=dark)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 사용 언어
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdwhddls&layout=compact&theme=dark)
+
+---
+
+
+
+## 🛠️ 기술 스택
+- **언어**: Python, Java, JavaScript, TypeScript
+- **웹 기술**: HTML, CSS
+- **도구**: Git, VSCode
+
+---
+
+## 🌟 목표
+- 매일 한 가지 이상 학습하기 📚
+- 새로운 기술 프로젝트 시도하기 🚀
+- 매일 블로그 한 글 이상 작성하기 ✏️
+
+---
+
+## 🌍 연락처
+- 📧 Email: **ko_sw@naver.com**
+- 📝 Blog: [[성운의 공부방] (https://kosw113.tistory.com)]
