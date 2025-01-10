@@ -15,18 +15,18 @@
 ---
 
 ### 📈 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sungwoonko&theme=react-dark)
 
 
 ---
 
 ### 🔝 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sungwoonko&layout=compact&theme=radical)
 
 ---
 
 ### 👀 Profile Views
-![Commits Badge](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+![Commits Badge](https://komarev.com/ghpvc/?username=sungwoonko&label=Profile%20views&color=0e75b6&style=flat)
 
 
 
