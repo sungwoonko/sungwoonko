@@ -14,6 +14,21 @@
 
 ---
 
+### 📈 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark)
+
+
+---
+
+### 🔝 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+### 👀 Profile Views
+![Commits Badge](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+
+
 
 
 ## 🛠️ 기술 스택
