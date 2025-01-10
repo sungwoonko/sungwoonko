@@ -5,7 +5,7 @@
 ---
 
 ## 🔥 GitHub 활동 통계
-![sungwoonko's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungwoonko&show_icons=true&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sungwoonko&show_icons=true&theme=radical)
 
 ---
 
